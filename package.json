@@ -1,0 +1,29 @@
+{
+  "name": "video-canvas",
+  "version": "0.0.0",
+  "description": "Display Videos In Canvas Element",
+  "main": "index.js",
+  "scripts": {
+    "test": "fox -b -t 9000"
+  },
+  "devDependencies": {
+    "fox": "*"
+  },
+  "keywords": [
+    "canvas",
+    "video",
+    "html5"
+  ],
+  "repository": {
+    "url": "git@github.com:azer/video-canvas.git",
+    "type": "git"
+  },
+  "author": "Azer Koçulu <azer@kodfabrik.com>",
+  "license": "BSD",
+  "dependencies": {
+    "media": "0.0.0",
+    "new-element": "0.0.1",
+    "select-dom": "0.0.0",
+    "style-dom": "0.0.0"
+  }
+}
