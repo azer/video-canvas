@@ -1,6 +1,6 @@
 {
   "name": "video-canvas",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Display Videos In Canvas Element",
   "main": "index.js",
   "scripts": {
