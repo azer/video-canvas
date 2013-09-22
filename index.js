@@ -37,5 +37,9 @@ function videoCanvas (src, parent) {
 
   parent.appendChild(canvas);
 
+  player.canvas = function () {
+    return canvas;
+  };
+
   return player;
 }
